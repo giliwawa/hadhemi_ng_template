@@ -19,9 +19,27 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
+        "./assets/fonts/fontawesome-webfont3e6e.eot",
+        "./assets/fonts/fontawesome-webfont3e6e.html",
+        "./assets/fonts/fontawesome-webfont3e6e.svg",
+        "./assets/fonts/fontawesome-webfont3e6e.ttf",
+        "./assets/fonts/fontawesome-webfont3e6e.woff",
+        "./assets/fonts/fontawesome-webfontd41d.eot",
+        "./assets/fonts/icofont7858.eot",
+        "./assets/fonts/icofont7858.svg",
+        "./assets/fonts/icofont7858.ttf",
+        "./assets/fonts/icofont7858.woff",
+        "./assets/fonts/icomoon.eot",
+        "./assets/fonts/icomoon.svg",
+        "./assets/fonts/icomoon.ttf",
+        "./assets/fonts/icomoon.woff",
+        "./assets/fonts/icomoond41d.eot",
         "styles.css"
       ],
-      "scripts": [],
+      "scripts": [
+        "./assets/js/plugins.min.js",
+        "./assets/js/common.js"
+      ],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",
